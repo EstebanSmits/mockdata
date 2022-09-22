@@ -1,0 +1,10 @@
+{
+	"TerminalEvent": {
+		"command": {
+			"string": {}
+		},
+		"username": {
+			"string": {}
+		}
+	}
+}
